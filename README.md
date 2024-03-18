@@ -1,4 +1,4 @@
-# Envrionmental-Statistics-with-Python-
+# Envrionmental-Statistics-with-Python
 "Dive into Environmental Statistics with Python, leveraging powerful tools to analyze data and address real-world environmental challenges. Explore climate trends, biodiversity patterns, and more using statistical techniques and machine learning algorithms tailored for environmental applications."
 
 Embark on a comprehensive journey into Environmental Statistics with Python, where we delve into a diverse array of topics essential for analyzing environmental data and addressing complex challenges. Through hands-on exercises, you'll master multiple regression, count regression, and logistic regression techniques, learning to model relationships between variables and predict outcomes with precision.
