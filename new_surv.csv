@@ -1,0 +1,81 @@
+colony,strains,treatments,cage_id,time,status
+Maja,b.j.005,brown_sugar_water,1,7,0
+Maja,b.j.005,brown_sugar_water,1,7,0
+Maja,b.j.005,brown_sugar_water,1,7,0
+Maja,b.j.005,brown_sugar_water,1,7,0
+Maja,b.j.005,brown_sugar_water,1,7,0
+Willi ,b.j.005,brown_sugar_water,2,4,1
+Willi ,b.j.005,brown_sugar_water,2,7,1
+Willi ,b.j.005,brown_sugar_water,2,7,0
+Willi ,b.j.005,brown_sugar_water,2,7,0
+Willi ,b.j.005,brown_sugar_water,2,7,0
+Maja,control,sugar_water,3,7,0
+Maja,control,sugar_water,3,7,0
+Maja,control,sugar_water,3,7,0
+Maja,control,sugar_water,3,7,0
+Maja,control,sugar_water,3,7,0
+Willi ,control,sugar_water,4,7,0
+Willi ,control,sugar_water,4,7,0
+Willi ,control,sugar_water,4,7,0
+Willi ,control,sugar_water,4,7,0
+Willi ,control,sugar_water,4,7,0
+Maja,b.j.005,pollen_sugar_water,5,2,1
+Maja,b.j.005,pollen_sugar_water,5,5,1
+Maja,b.j.005,pollen_sugar_water,5,5,1
+Maja,b.j.005,pollen_sugar_water,5,7,0
+Maja,b.j.005,pollen_sugar_water,5,7,0
+Willi ,b.j.005,pollen_sugar_water,6,4,1
+Willi ,b.j.005,pollen_sugar_water,6,4,1
+Willi ,b.j.005,pollen_sugar_water,6,4,1
+Willi ,b.j.005,pollen_sugar_water,6,5,1
+Willi ,b.j.005,pollen_sugar_water,6,7,0
+Maja,b.j.003,brown_sugar_water,7,7,0
+Maja,b.j.003,brown_sugar_water,7,7,0
+Maja,b.j.003,brown_sugar_water,7,7,0
+Maja,b.j.003,brown_sugar_water,7,7,0
+Maja,b.j.003,brown_sugar_water,7,7,0
+Willi ,b.j.003,brown_sugar_water,8,7,0
+Willi ,b.j.003,brown_sugar_water,8,7,0
+Willi ,b.j.003,brown_sugar_water,8,7,0
+Willi ,b.j.003,brown_sugar_water,8,7,0
+Willi ,b.j.003,brown_sugar_water,8,7,0
+Maja,b.j.003,pollen_sugar_water,9,7,0
+Maja,b.j.003,pollen_sugar_water,9,7,0
+Maja,b.j.003,pollen_sugar_water,9,7,0
+Maja,b.j.003,pollen_sugar_water,9,5,1
+Maja,b.j.003,pollen_sugar_water,9,6,1
+Willi ,b.j.003,pollen_sugar_water,10,7,0
+Willi ,b.j.003,pollen_sugar_water,10,7,0
+Willi ,b.j.003,pollen_sugar_water,10,7,0
+Willi ,b.j.003,pollen_sugar_water,10,7,0
+Willi ,b.j.003,pollen_sugar_water,10,7,0
+Maja,control,sugar_water,11,7,0
+Maja,control,sugar_water,11,7,0
+Maja,control,sugar_water,11,7,0
+Maja,control,sugar_water,11,7,0
+Maja,control,sugar_water,11,7,1
+Willi ,control,sugar_water,12,7,0
+Willi ,control,sugar_water,12,7,0
+Willi ,control,sugar_water,12,3,1
+Willi ,control,sugar_water,12,7,0
+Willi ,control,sugar_water,12,7,0
+Maja,b.j.068,brown_sugar_water,13,7,0
+Maja,b.j.068,brown_sugar_water,13,7,0
+Maja,b.j.068,brown_sugar_water,13,7,0
+Maja,b.j.068,brown_sugar_water,13,7,0
+Maja,b.j.068,brown_sugar_water,13,7,0
+Willi ,b.j.068,brown_sugar_water,14,5,1
+Willi ,b.j.068,brown_sugar_water,14,7,0
+Willi ,b.j.068,brown_sugar_water,14,7,0
+Willi ,b.j.068,brown_sugar_water,14,7,0
+Willi ,b.j.068,brown_sugar_water,14,7,0
+Maja,b.j.068,pollen_sugar_water,15,7,0
+Maja,b.j.068,pollen_sugar_water,15,7,0
+Maja,b.j.068,pollen_sugar_water,15,7,0
+Maja,b.j.068,pollen_sugar_water,15,7,0
+Maja,b.j.068,pollen_sugar_water,15,7,0
+Willi ,b.j.068,pollen_sugar_water,16,5,1
+Willi ,b.j.068,pollen_sugar_water,16,6,1
+Willi ,b.j.068,pollen_sugar_water,16,7,1
+Willi ,b.j.068,pollen_sugar_water,16,7,0
+Willi ,b.j.068,pollen_sugar_water,16,7,0
