@@ -1,0 +1,42 @@
+phylum,class,order,family,genus,species,weight..g.,height..mm.,width..mm.,hardness
+Color-Rado,uncoated candy,Jelly-based candy,jelly,jelly fruit,jelly orange,4.9,22,22,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,jelly fruit,jelly lemon,4.5,30,11,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,jelly fruit,jelly strawberry,4.8,25,23,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,jelly fruit,jelly pineapple,4.6,35,19,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,jelly fruit,jelly apple,4.8,26,17,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,jelly fruit,jelly raspberry,4.5,20,20,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,gummi bear,dark-red gummi bear,2.2,21,11,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,gummi bear,green gummi bear,2.2,21,11,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,gummi bear,orange gummi bear,2.2,21,11,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,gummi bear,yellow gummi bear,2.2,21,11,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,gummi bear,Light-red gummi bear,2.2,21,11,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,gummi bear,white gummi bear,2.2,21,11,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,frogs,green frog,5.3,32,23,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,frogs,red frog,5.2,32,23,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,frogs,orange frog,5.2,32,23,soft
+Color-Rado,uncoated candy,Jelly-based candy,jelly,Sugar-sprinkle fruit,sugar-sprinkle raspberry,4.3,20,18,hard
+Color-Rado,uncoated candy,Jelly-based candy,Jelly-licorice,bat,red-winged bat,5.1,21,42,soft
+Color-Rado,uncoated candy,Jelly-based candy,Jelly-licorice,bat,yellow-winged bat,5.1,21,42,soft
+Color-Rado,uncoated candy,Jelly-based candy,Jelly-licorice,bat,green-winged bat,5.1,21,42,soft
+Color-Rado,potentiocoated candy,Marshmallow-based candy,rockoid,rock,red rock,6.2,20,28,hard
+Color-Rado,potentiocoated candy,Marshmallow-based candy,rockoid,rock,yellow rock,6.2,20,28,hard
+Color-Rado,potentiocoated candy,Marshmallow-based candy,rockoid,rock,brown rock,6.2,20,28,hard
+Color-Rado,potentiocoated candy,Licorice-based candy,exolicorice,eulicorice,X licorice,2.8,26,10,chewy
+Color-Rado,potentiocoated candy,Licorice-based candy,exolicorice,eulicorice,solid rod,3,28,8,chewy
+Color-Rado,potentiocoated candy,Licorice-based candy,exolicorice,eulicorice,6-petalled licorice,3.8,27,11,chewy
+Color-Rado,potentiocoated candy,Licorice-based candy,exolicorice,eulicorice,9-petalled licorice,3.9,28,13,chewy
+Color-Rado,potentiocoated candy,Licorice-based candy,exolicorice,eulicorice,rafty tripple rod,3.2,27,15,chewy
+Color-Rado,potentiocoated candy,Licorice-based candy,exolicorice,eulicorice,tripple twisted rod,2.4,27,10,chewy
+Color-Rado,potentiocoated candy,Licorice-based candy,exolicorice,hollow licorice,filled rod,2.8,25,10,chewy
+Color-Rado,potentiocoated candy,Licorice-based candy,endolicorices,epilicorice,yellow sugar-coated licorice,4.7,27,15,hard
+Color-Rado,potentiocoated candy,Licorice-based candy,endolicorices,epilicorice,white sugar-coated licorice,4.5,28,13,hard
+Color-Rado,potentiocoated candy,Licorice-based candy,endolicorices,epilicorice,purple sugar-coated licorice,4.3,30,10,hard
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,double,double double,5.4,10,16,tender
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,eusandwich,yellow-pink sandwich,4.7,22,20,tender
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,eusandwich,yellow sandwich,4,20,10,tender
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,eusandwich,brown sandwich,4,20,10,tender
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,eusandwich,pink sandwich,5.1,20,12,tender
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,Hot-dogs,white hot-dog,5.2,22,20,tender
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,Hot-dogs,orange hot-dog,5.2,22,20,tender
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,Hot-dogs,dark brown hot-dog,5.3,21,20,tender
+Color-Rado,potentiocoated candy,Licorice-based candy,sandwiches,Hot-dogs,light-brown hot-dog,5.5,23,18,tender
